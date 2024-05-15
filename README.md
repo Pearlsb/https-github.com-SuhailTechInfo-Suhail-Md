@@ -135,7 +135,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/SuhailTechInfo/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/SuhailTechInfo/Suhail-Md/discussions/new?category=q-a)!
+- join WhatsApp group, then create an [`+issue`](https://chat.whatsapp.com/HfDrgRKpcWMHf0rJmWY4DL) Or ask anything here [`+Q&A`](.https://chat.whatsapp.com/HfDrgRKpcWMHf0rJmWY4DL)!
 
 
 
