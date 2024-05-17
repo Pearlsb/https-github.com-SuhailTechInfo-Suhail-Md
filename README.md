@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Gøjø" height="400" src="https://images.app.goo.gl/poB1q4oRSHzFTkHM6">
   </a>
 </p>
     
