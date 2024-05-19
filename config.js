@@ -11,7 +11,7 @@ global.email ="christiangreek8@gmail.com"
 global.location="Lahore,Pakistan,Nigerial,United Kingdom."
 
 
-global.mongodb= process.env.MONGODB_URI || "mongodb+srv://Markbot-md:<Marthings>@cluster0.8ni6n0q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+global.mongodb= process.env.MONGODB_URI || ""
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
@@ -85,7 +85,7 @@ module.exports = {
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
-  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "HRKU-572b7e11-92a1-4b12-a46c-4015f7a075a3",
+  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "0fficial-b0t",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
