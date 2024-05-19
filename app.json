@@ -108,7 +108,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "Official-Ky",
       "required": false 
     }
   }, 
